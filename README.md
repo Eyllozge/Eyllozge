@@ -5,6 +5,7 @@
 </p>
 ---
 
+
 ###  About Me
 
 - 🎓 First-year computer programming student at Firat University.
