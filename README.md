@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Eylül Özge 👋! </h1>
 <p align="center">
-  <i>Mobile Developer/Flutter Developer/Backend Developer</i><br/>
+  <i>Mobile Developer/Flutter Developer</i><br/>
   🎓 Computer Programming Student from <b>FU</b> 
 </p>
 ---
