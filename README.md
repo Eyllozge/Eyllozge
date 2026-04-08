@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Özge 👋! </h1>
 <p align="center">
-  <i>Backend Developer/Flutter Developer</i><br/>
+  <i>Backend Developer/</i><br/>
   🎓 Computer Programming Student from <b>FU</b> 
 </p>
 ---
