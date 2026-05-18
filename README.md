@@ -6,7 +6,7 @@ I am a backend-focused software developer and first-year Computer Programming st
 
 ### 🚀 About Me
 
-* 🎓 **Education:** 1st-year Computer Programming student at Fırat University.
+* 🎓 **Education:** 1st-year Computer Programming student at Fırat University.(GNO: 3.6)
 * ⚖️ **Current Focus:** Developing **LawVault**, a comprehensive legal database and AI assistant aimed at increasing societal legal literacy.
 * 💡 **Experience:** Educational Planning Team at **Lawducation** (2 years, Remote). I manage digital project transformations and develop interactive mini web applications for participants across various law courses.
 * 🔐 **Interests:** Backend architecture, database management, digital privacy, and building secure, clean tech stacks.
