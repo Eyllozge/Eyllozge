@@ -1,28 +1,25 @@
-<h1 align="center"> Hi, I'm Özge 👋! </h1>
-<p align="center">
-  <i>Backend Developer/</i><br/>
-  🎓 Computer Programming Student from <b>FU</b> 
-</p>
----
+# Hi, I'm Eylül Özge 👋
 
+**Backend Developer | LegalTech Innovator | Computer Programming Student**
 
-###  About Me
+I am a backend-focused software developer and first-year Computer Programming student passionate about the intersection of law and technology. I specialize in backend architecture, database management, and creating digital solutions that enhance accessible legal tech.
 
-- 🎓 First-year computer programming student at Firat University.
-- 💡 Education Planning Team at Lawducation (1.7 year/ Remote)
-- 📑 Editor and Writer 
-- 🗂️ Currently working on SQL and Databases, Mobile development with Flutter, Learning backend with Python and research for Legaltech
+### 🚀 About Me
 
-#### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+* 🎓 **Education:** 1st-year Computer Programming student at Fırat University.
+* ⚖️ **Current Focus:** Developing **LawVault**, a comprehensive legal database and AI assistant aimed at increasing societal legal literacy.
+* 💡 **Experience:** Educational Planning Team at **Lawducation** (2 years, Remote). I manage digital project transformations and develop interactive mini web applications for participants across various law courses.
+* 🔐 **Interests:** Backend architecture, database management, digital privacy, and building secure, clean tech stacks.
+* ✒️ **Beyond Coding:** Creative writer working on an epic fantasy novel and researching/blogging about technology and law.
 
-### 📫 Connect
+### 💻 Tech Stack
 
-- 📩 Email: [e.ozgegndogdu@gmail.com](mailto:e.ozgegndogdu@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/eozgegundogdu/))  
+* **Languages:** Python, Java, Dart, HTML/CSS
+* **Databases:** PostgreSQL, SQL
+* **Mobile & Frameworks:** Flutter
+* **Tools & Workflow:** VS Code, Git/GitHub, Obsidian, Notion
+
+### 📫 Let's Connect
+
+* 📩 **Email:** [e.ozgegndogdu@gmail.com](mailto:e.ozgegndogdu@gmail.com)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/eozgegundogdu/](#)
