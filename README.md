@@ -6,7 +6,7 @@ I am a backend-focused software developer and second-year Computer Programming s
 
 ### 🚀 About Me
 
-* 🎓 **Education:** 1st-year Computer Programming student at Fırat University.(GNO: 3.51)
+* 🎓 **Education:** 2st-year Computer Programming student at Fırat University.(GNO: 3.51)
 * ⚖️ **Current Focus:** Developing LegalTech and EdTech(Education Technologies) products and systems.
 * 💡 **Experience:** Educational Planning Team at **Lawducation** (2 years, Remote). I manage digital project transformations and develop interactive mini web applications for participants across various law courses. 150+ participants and 15+ phases manangement and planning.
 * 🔐 **Interests:** Backend architecture, database management, digital privacy, and building secure, clean tech stacks.
